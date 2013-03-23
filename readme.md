@@ -5,7 +5,7 @@ I'll write a better readme file later, one that will actually introduce the proj
 
 MIT License and all that shit, I'll also actually include real licensing and stuff later. I'll do *EVERYTHING* later.
 
-A lot of love to [@jlongster][0] for his [canvas-game-bootstrap[1] project and accompanying tutorial
+A lot of love to [@jlongster][0] for his [canvas-game-bootstrap]/[1] project and accompanying tutorial
 
 [0]: http://www.twitter.com/jlongster
 [1]: https://github.com/jlongster/canvas-game-bootstrap
