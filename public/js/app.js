@@ -8,7 +8,8 @@ requirejs.config({
   }
 });
 
-requirejs(['main', 'modules/resources', 'vendor/jquery.min', 'vendor/bootstrap.min', 'vendor/underscore.min'], 
-          function(main, resources, $, bootstrap) {
+requirejs(['modules/resources', 'modules/sprite', 'main', 'vendor/jquery.min', 'vendor/bootstrap.min', 'vendor/underscore.min'], 
+          function(resources, sprite, main, $, bootstrap, _)me '/Applications/pcsx2 0.9.7 Alpha.app/Contents/Resources/script'`"; cd pcsx2; clear; ./pcsx2; exit
+          {
             // Initialize everything here and shit later
           });
